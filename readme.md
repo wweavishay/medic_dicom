@@ -6,7 +6,7 @@ This summary highlights a variety of projects spanning different domains, each d
 
 ## Cancer Detection with CNN
 <p align="center">
-  <img src="img_classification_pytorch/screenshots/PREDICT_TYPE_output_video.gif" alt="Cancer Detection" width="400" height="400">
+  <img src="img_classification_pytorch/screenshots/PREDICT_TYPE_output_video.gif" alt="Cancer Detection" width="300" height="300">
 </p>
 
 A Convolutional Neural Network (CNN) model meticulously crafted for precise cancer detection within medical images. This project employs advanced techniques to analyze and classify image data, enabling accurate identification of potential cancerous abnormalities.
@@ -16,7 +16,7 @@ A Convolutional Neural Network (CNN) model meticulously crafted for precise canc
 The `videopredict.py` script offers real-time prediction capabilities for analyzing video content, particularly suited for classifying objects or scenes within video frames. Leveraging an ONNX model trained on a deep learning architecture, this script enables seamless inference on video streams, providing insights into the contents of each frame.
 
 <p align="center">
-<img src="medic/images/dicomfiles_A2/dicomfiles_A2_contour_detection_video.gif" alt="Cancer Detection" width="400" height="400">
+<img src="medic/images/dicomfiles_A2/dicomfiles_A2_contour_detection_video.gif" alt="Cancer Detection" width="300" height="300">
 </p>
 ## Image Classification Pipeline with Random Forest
 
