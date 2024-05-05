@@ -18,6 +18,7 @@ The `videopredict.py` script offers real-time prediction capabilities for analyz
 <p align="center">
 <img src="medic/images/dicomfiles_A2/dicomfiles_A2_contour_detection_video.gif" alt="Cancer Detection" width="300" height="300">
 </p>
+
 ## Image Classification Pipeline with Random Forest
 
 A Python script for building an image classification pipeline using the Random Forest algorithm. This pipeline includes image preprocessing, model training, cross-validation, evaluation, and inference functionalities, demonstrating a robust approach to image classification tasks.
