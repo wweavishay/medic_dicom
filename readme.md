@@ -29,7 +29,7 @@ The `analysisdata.py` script provides comprehensive data analysis tools for expl
 
 ## DICOM Image Viewer
 
-<img src="medic/outputplot/dicomviewer.png" alt="Cancer Detection" width="600" height="300">
+<img src="medic/outputplot/dicomviewer.png" alt="Cancer Detection" width="600" height="500">
 
 A Python GUI application for viewing DICOM-CT images with features for navigation, color adjustment, and video playback. This viewer provides healthcare professionals with a convenient tool for analyzing medical images and facilitating diagnosis.
 
