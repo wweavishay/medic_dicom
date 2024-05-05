@@ -6,7 +6,7 @@ This summary highlights a variety of projects spanning different domains, each d
 
 ## Cancer Detection with CNN
 
-![Cancer Detection](img_classification_pytorch/screenshots/PREDICT_TYPE_output_video.gif)
+<img src="img_classification_pytorch/screenshots/PREDICT_TYPE_output_video.gif" alt="Cancer Detection" width="300" height="200">
 
 A Convolutional Neural Network (CNN) model meticulously crafted for precise cancer detection within medical images. This project employs advanced techniques to analyze and classify image data, enabling accurate identification of potential cancerous abnormalities.
 
