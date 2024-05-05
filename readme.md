@@ -22,14 +22,14 @@ The `videopredict.py` script offers real-time prediction capabilities for analyz
 A Python script for building an image classification pipeline using the Random Forest algorithm. This pipeline includes image preprocessing, model training, cross-validation, evaluation, and inference functionalities, demonstrating a robust approach to image classification tasks.
 
 ## Data Analysis with Python
-<img src="medic/outputplot/plots_part1.png" alt="Cancer Detection" width="300" height="300">
+<img src="medic/outputplot/plots_part1.png" alt="Cancer Detection" width="500" height="500">
 
 
 The `analysisdata.py` script provides comprehensive data analysis tools for exploring medical datasets. From plotting data distributions to displaying statistics, this script empowers users to gain insights into their data and make informed decisions.
 
 ## DICOM Image Viewer
 
-<img src="medic/outputplot/dicomviewer.png" alt="Cancer Detection" width="300" height="300">
+<img src="medic/outputplot/dicomviewer.png" alt="Cancer Detection" width="500" height="300">
 
 A Python GUI application for viewing DICOM-CT images with features for navigation, color adjustment, and video playback. This viewer provides healthcare professionals with a convenient tool for analyzing medical images and facilitating diagnosis.
 
