@@ -5,9 +5,8 @@
 This summary highlights a variety of projects spanning different domains, each demonstrating unique functionalities and applications. From cancer detection using convolutional neural networks to video prediction with computer vision, and from image classification pipelines to DICOM image viewers, these projects showcase the versatility and innovation in the field of technology and machine learning.
 
 ## Cancer Detection with CNN
-<div style="text-align:center;">
-<img src="img_classification_pytorch/screenshots/PREDICT_TYPE_output_video.gif" alt="Cancer Detection" width="400" height="400">
-<div>
+<p align="center"><img src="img_classification_pytorch/screenshots/PREDICT_TYPE_output_video.gif" alt="Cancer Detection" width="400" height="400">
+</p>
 
 A Convolutional Neural Network (CNN) model meticulously crafted for precise cancer detection within medical images. This project employs advanced techniques to analyze and classify image data, enabling accurate identification of potential cancerous abnormalities.
 
