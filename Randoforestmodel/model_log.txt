@@ -1,0 +1,3 @@
+Cross-Validation Accuracy Scores: [0.99790795 0.99738494 0.99529042 0.99686028 0.99895343]
+Mean CV Accuracy: 0.997279404198113
+Test Accuracy: 0.997314453125
